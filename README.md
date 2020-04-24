@@ -1,3 +1,4 @@
+Luis Schekerka
 # Data Structures 
 
 Topics:
